@@ -1,0 +1,35 @@
+3). How constructor can be used for a servlet? 
+c) Initialization and Constructor function 
+ 
+4) When destroy() method of a filter is called? 
+a) The destroy() method is called only once at the end of the life cycle of a filter 
+ 
+ 
+5) Which of the following code is used to get names of the attributes in servlet? 
+B) request.getAttributeNames() 
+ 
+ 
+6) Which of the following code can be used to set the content type for the body of the response? 
+B - response.setContentType(type) 
+ 
+ 
+7) Which of the following code is used to get a HTTP Session object in servlets? 
+A - request.getSession() 
+ 
+8) What are the functions of Servlet container? 
+D. All of the above 
+ 
+9) Which method shows the client what server is receiving? 
+A. goGet 
+ 
+10) In the web.xml , session configuration is 
+ 
+<session-config> 
+<session-timeout>0<session-timeout> 
+</session-config> 
+ 
+What does this means? 
+A. Session are never invalidated. 
+ 
+
+
